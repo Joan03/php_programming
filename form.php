@@ -20,6 +20,13 @@ echo "name added to csv";
         <label>Last name: </label><br/>
     <input type="text" name="last_name"><br/>
         <button type="submit">Submit</button>
+
+<form action="form.php" method="get">
+        <label>First name: </label><br/>
+    <input type="text" name="first_name"><br/>
+        <label>Last name: </label><br/>
+    <input type="text" name="last_name"><br/>
+        <button type="submit">Submit</button>
     </form>
   </body>
 </html>
